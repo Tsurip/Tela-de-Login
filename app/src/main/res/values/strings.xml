@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tela de Login</string>
+    <string name="Welcome">Bem-Vindo</string>
+    <string name="txtLogin">Faça o Login</string>
+    <string name="txtUser">Usuário</string>
+    <string name="forgot">Esqueceu a Senha?</string>
+    <string name="SingUp">Não tem uma conta? Cadastre-se</string>
+</resources>
